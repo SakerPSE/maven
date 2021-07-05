@@ -2,7 +2,7 @@
 public class GitTest {
 
 	public static void main(String[] args) {
-		System.out.println("GitTest입니당");
+		System.out.println("GitTest1입니당");
 	}
 
 }
